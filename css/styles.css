@@ -1,0 +1,183 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  height: 740px;
+  position: relative;
+  background-color: #def4f0;
+}
+
+h1 {
+  color: #1b6ca8;
+  font-size: 5rem;
+  padding-top: 90px;
+  font-family: 'Sacramento', cursive;
+  display: inline-block;
+}
+
+h2 {
+  color: #0a97b0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #0a97b0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 4%;
+  border-width: 5px;
+  border-color: #ff9234;
+  margin: auto;
+}
+
+#birds {
+  height: 200px;
+  width: 250px;
+  position: absolute;
+  top: 100px;
+  left: 1000px;
+}
+
+#birds2 {
+  height: 200px;
+  width: 250px;
+  position: absolute;
+  left: 550px;
+  top: -20px;
+}
+
+#sun {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 130px;
+  bottom: 350px;
+}
+
+#beach1 {
+  width: 447.5px;
+  position: absolute;
+  left: 0px;
+}
+
+#beach2 {
+  width: 447.5px;
+  position: absolute;
+  left: 450px;
+}
+
+#beach3 {
+  width: 447.5px;
+  position: absolute;
+  left: 895px;
+}
+
+.intro {
+  position: relative;
+  background-color: #f4f4f4;
+  padding-top: 30px;
+}
+
+.middle-container {
+  position: relative;
+  background-color: #f4f4f4;
+  padding-top: 20px;
+}
+
+p {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 10px;
+  line-height: 2;
+}
+
+span {
+  color: red;
+}
+
+#eleni {
+  height: 160px;
+  width: 155px;
+}
+
+#cat {
+  height: 210px;
+  width: 160px;
+  position: absolute;
+  left: 250px;
+  top: 120px;
+}
+
+#cute {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  right: 200px;
+  top: 400px;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  line-height: 0.5;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.bottom-container {
+  height: 310px;
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f4f4f4;
+}
+
+#email {
+  position: absolute;
+  bottom: 100px;
+  left: 570px;
+  height: 150px;
+  width: 200px;
+  display: block;
+}
+
+.button {
+  position: absolute;
+  left: 590px;
+  bottom: 20px;
+  display: block;
+  color: rgb(247, 247, 247);
+  font-size: 20px;
+  padding: 20px;
+  text-shadow: 0px -1px 4px rgba(30, 30, 30, 1);
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  background: rgb(0, 109, 109);
+  background: -moz-linear-gradient(90deg, rgb(0, 109, 109) 0%, rgb(0, 221, 221) 100%);
+  background: -webkit-linear-gradient(90deg, rgb(0, 109, 109) 0%, rgb(0, 221, 221) 100%);
+  background: -o-linear-gradient(90deg, rgb(0, 109, 109) 0%, rgb(0, 221, 221) 100%);
+  background: -ms-linear-gradient(90deg, rgb(0, 109, 109) 0%, rgb(0, 221, 221) 100%);
+  background: linear-gradient(0deg, rgb(0, 109, 109) 0%, rgb(0, 221, 221) 100%);
+  -webkit-box-shadow: 0px 0px 3px rgba(50, 50, 50, 0.43);
+  -moz-box-shadow: 0px 0px 3px rgba(50, 50, 50, 0.43);
+  box-shadow: 0px 0px 3px rgba(50, 50, 50, 0.43);
+}
+
+.social-media {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #def4f0;
+}
